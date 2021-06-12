@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Xiaoliang Fan‘s lab</title>
+    <title>Publications | Xiaoliang Fan@XMU</title>
     <link>https://fanxlxmu.github.io/publication/</link>
       <atom:link href="https://fanxlxmu.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
@@ -36,10 +36,74 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
+      <title>Predicting ICU Mortality from Heterogeneous Clinical Events with Prior Medical Knowledge</title>
+      <link>https://fanxlxmu.github.io/publication/ijcai19-kdh/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://fanxlxmu.github.io/publication/ijcai19-kdh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepDiagnosis: DNN-based Diagnosis Prediction from Pediatric Big Healthcare Data</title>
+      <link>https://fanxlxmu.github.io/publication/cbd18_1/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://fanxlxmu.github.io/publication/cbd18_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Temporal Effectiveness for Context Aware Web Services Recommendation</title>
+      <link>https://fanxlxmu.github.io/publication/icws15/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://fanxlxmu.github.io/publication/icws15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CommuteShare: A Ridesharing Service for Daily Commuters Using Cross-domain Urban Big Data</title>
+      <link>https://fanxlxmu.github.io/publication/icws18/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://fanxlxmu.github.io/publication/icws18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting ICU Mortality by Supervised Bidirectional LSTM Networks</title>
+      <link>https://fanxlxmu.github.io/publication/ijcai18-aih/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://fanxlxmu.github.io/publication/ijcai18-aih/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SDCAE: Stack Denoising Convolutional Autoencoder Model for Accident Risk Prediction via Traffic Big Data</title>
+      <link>https://fanxlxmu.github.io/publication/cbd18_2/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://fanxlxmu.github.io/publication/cbd18_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>RADAR: Road Obstacle Identification for Disaster Response Leveraging Multi-Source Urban Data</title>
       <link>https://fanxlxmu.github.io/publication/ubicomp18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://fanxlxmu.github.io/publication/ubicomp18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Effectiveness of True Abnormal Data Elimination in Context-aware Web Services Recommendation</title>
+      <link>https://fanxlxmu.github.io/publication/icws16/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://fanxlxmu.github.io/publication/icws16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unlicensed Taxis Detection Service based on Large-Scale Vehicles Mobility Data</title>
+      <link>https://fanxlxmu.github.io/publication/icws17/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://fanxlxmu.github.io/publication/icws17/</guid>
       <description></description>
     </item>
     
