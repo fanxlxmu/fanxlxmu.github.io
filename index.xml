@@ -36,6 +36,29 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
+      <title>DeepSTD: Mining Spatio-Temporal Disturbances of Multiple Context Factors for Citywide Traffic Flow Prediction</title>
+      <link>https://fanxlxmu.github.io/publication/tits2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://fanxlxmu.github.io/publication/tits2020/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>GMAN: A Graph Multi-Attention Network for Traffic Prediction</title>
       <link>https://fanxlxmu.github.io/publication/aaai2020/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
@@ -59,75 +82,49 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>Predicting ICU Mortality from Heterogeneous Clinical Events with Prior Medical Knowledge</title>
-      <link>https://fanxlxmu.github.io/publication/ijcai19-kdh/</link>
-      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://fanxlxmu.github.io/publication/ijcai19-kdh/</guid>
-      <description></description>
+      <title>基于图卷积神经网络的城市交通态势预测算法</title>
+      <link>https://fanxlxmu.github.io/publication/ei2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://fanxlxmu.github.io/publication/ei2020/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
     </item>
     
     <item>
-      <title>DeepDiagnosis: DNN-based Diagnosis Prediction from Pediatric Big Healthcare Data</title>
-      <link>https://fanxlxmu.github.io/publication/cbd18_1/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://fanxlxmu.github.io/publication/cbd18_1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modeling Temporal Effectiveness for Context Aware Web Services Recommendation</title>
-      <link>https://fanxlxmu.github.io/publication/icws15/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://fanxlxmu.github.io/publication/icws15/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CommuteShare: A Ridesharing Service for Daily Commuters Using Cross-domain Urban Big Data</title>
-      <link>https://fanxlxmu.github.io/publication/icws18/</link>
+      <title>CASR-TSE: Context-aware Web Services Recommendation for Modeling Weighted Temporal-Spatial Effectiveness</title>
+      <link>https://fanxlxmu.github.io/publication/tsc/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://fanxlxmu.github.io/publication/icws18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Predicting ICU Mortality by Supervised Bidirectional LSTM Networks</title>
-      <link>https://fanxlxmu.github.io/publication/ijcai18-aih/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://fanxlxmu.github.io/publication/ijcai18-aih/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SDCAE: Stack Denoising Convolutional Autoencoder Model for Accident Risk Prediction via Traffic Big Data</title>
-      <link>https://fanxlxmu.github.io/publication/cbd18_2/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://fanxlxmu.github.io/publication/cbd18_2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RADAR: Road Obstacle Identification for Disaster Response Leveraging Multi-Source Urban Data</title>
-      <link>https://fanxlxmu.github.io/publication/ubicomp18/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://fanxlxmu.github.io/publication/ubicomp18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exploring the Effectiveness of True Abnormal Data Elimination in Context-aware Web Services Recommendation</title>
-      <link>https://fanxlxmu.github.io/publication/icws16/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://fanxlxmu.github.io/publication/icws16/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unlicensed Taxis Detection Service based on Large-Scale Vehicles Mobility Data</title>
-      <link>https://fanxlxmu.github.io/publication/icws17/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://fanxlxmu.github.io/publication/icws17/</guid>
-      <description></description>
+      <guid>https://fanxlxmu.github.io/publication/tsc/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
     </item>
     
     <item>
