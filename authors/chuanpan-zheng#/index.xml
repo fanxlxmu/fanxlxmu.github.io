@@ -5,7 +5,7 @@
     <link>https://fanxlxmu.github.io/authors/chuanpan-zheng#/</link>
       <atom:link href="https://fanxlxmu.github.io/authors/chuanpan-zheng#/index.xml" rel="self" type="application/rss+xml" />
     <description>Chuanpan Zheng#</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://fanxlxmu.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Chuanpan Zheng#</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>DeepSTD: Mining Spatio-Temporal Disturbances of Multiple Context Factors for Citywide Traffic Flow Prediction</title>
-      <link>https://fanxlxmu.github.io/publication/tits2020/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://fanxlxmu.github.io/publication/tits2020/</guid>
+      <title>GMAN: A Graph Multi-Attention Network for Traffic Prediction</title>
+      <link>https://fanxlxmu.github.io/publication/aaai2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://fanxlxmu.github.io/publication/aaai2020/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -36,10 +36,10 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>GMAN: A Graph Multi-Attention Network for Traffic Prediction</title>
-      <link>https://fanxlxmu.github.io/publication/aaai2020/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://fanxlxmu.github.io/publication/aaai2020/</guid>
+      <title>DeepSTD: Mining Spatio-Temporal Disturbances of Multiple Context Factors for Citywide Traffic Flow Prediction</title>
+      <link>https://fanxlxmu.github.io/publication/tits2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://fanxlxmu.github.io/publication/tits2019/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
