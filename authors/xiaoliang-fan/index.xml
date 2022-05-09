@@ -5,12 +5,35 @@
     <link>https://fanxlxmu.github.io/authors/xiaoliang-fan/</link>
       <atom:link href="https://fanxlxmu.github.io/authors/xiaoliang-fan/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiaoliang Fan*</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://fanxlxmu.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Xiaoliang Fan*</title>
       <link>https://fanxlxmu.github.io/authors/xiaoliang-fan/</link>
     </image>
+    
+    <item>
+      <title>Multi-Graph Fusion Networks for Urban Region Embedding</title>
+      <link>https://fanxlxmu.github.io/publication/ijcai22/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://fanxlxmu.github.io/publication/ijcai22/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>FedRME: Federated Road Markings Extraction from Mobile LiDAR Point Clouds</title>
